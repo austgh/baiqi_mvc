@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\图灵\三：源码框架专题\12.手写SpringMvc框架实现\代码笔记\代码笔记\代码\baiqi_mvc\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

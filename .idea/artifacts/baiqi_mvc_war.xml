@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="baiqi_mvc:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>baiqi_mvc</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="baiqi_mvc.war">
+      <element id="artifact" artifact-name="baiqi_mvc:war exploded" />
+    </root>
+  </artifact>
+</component>
